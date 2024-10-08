@@ -1,4 +1,4 @@
-# # Sweet Sales: Analyzing Chocolate Sales Performance
+# Sweet Sales: Analyzing Chocolate Sales Performance
 
 ### Drive Link : https://drive.google.com/file/d/1o8JlOzh7l8etTDWI8TGq6fu1sgE4GDtw/view?usp=sharing
 
