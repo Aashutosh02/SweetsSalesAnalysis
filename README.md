@@ -2,7 +2,6 @@
 
 ### Dashboard Link : https://app.powerbi.com/groups/me/reports/e534e203-bc55-43b7-867d-9f36d9c424a2/012744767c1b1ee34cfb?experience=power-bi
 
-
 ## Problem Statement
 
 This dashboard helps analyze the sales performance of chocolate products. It enables stakeholders to identify popular products, customer preferences, and trends over time. Through sales data, the dashboard highlights areas for improving marketing strategies, optimizing inventory, and understanding customer demographics.
